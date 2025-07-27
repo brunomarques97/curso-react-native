@@ -18,10 +18,10 @@ Bem-vindo ao meu projeto `curso-react-native`! Este repositório serve como meu 
 * [x] Exibir listas de dados otimizadas usando **`FlatList`** e **`SectionList`**.
 
 #### Estilização e Layout:
-* [ ] Organizar estilos com **`StyleSheet.create`** para modularidade.
-* [ ] Dominar o **Flexbox** para construir layouts complexos e responsivos.
-* [ ] Aplicar propriedades de estilo comuns (cores, fontes, espaçamentos, bordas).
-* [ ] Entender e aplicar as diferenças entre estilos inline e externos.
+* [x] Organizar estilos com **`StyleSheet.create`** para modularidade.
+* [x] Dominar o **Flexbox** para construir layouts complexos e responsivos.
+* [x] Aplicar propriedades de estilo comuns (cores, fontes, espaçamentos, bordas).
+* [x] Entender e aplicar as diferenças entre estilos inline e externos.
 
 #### Gestão de Dados em Componentes:
 * [ ] Praticar a passagem de dados entre componentes pai e filho via **`props`**.
