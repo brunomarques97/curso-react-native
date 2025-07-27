@@ -34,7 +34,7 @@ Bem-vindo ao meu projeto `curso-react-native`! Este repositório serve como meu 
 * [ ] Investigar **`useRef`**, **`useCallback`**, **`useMemo`** para otimizações de performance.
 
 #### Interatividade do Usuário:
-* [ ] Implementar manipulação de eventos como `onPress` (toques) e `onChangeText` (mudanças em inputs).
+* [x] Implementar manipulação de eventos como `onPress` (toques) e `onChangeText` (mudanças em inputs).
 
 ---
 
