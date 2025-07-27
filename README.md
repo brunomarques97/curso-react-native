@@ -24,8 +24,8 @@ Bem-vindo ao meu projeto `curso-react-native`! Este repositório serve como meu 
 * [x] Entender e aplicar as diferenças entre estilos inline e externos.
 
 #### Gestão de Dados em Componentes:
-* [ ] Praticar a passagem de dados entre componentes pai e filho via **`props`**.
-* [ ] Gerenciar o estado interno de componentes com o **`useState` Hook**.
+* [x] Praticar a passagem de dados entre componentes pai e filho via **`props`**.
+* [x] Gerenciar o estado interno de componentes com o **`useState` Hook**.
 
 #### Hooks para Lógica e Efeitos:
 * [ ] Utilizar **`useState`** para controlar o estado da UI.
