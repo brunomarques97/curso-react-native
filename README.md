@@ -8,14 +8,14 @@ Bem-vindo ao meu projeto `curso-react-native`! Este repositório serve como meu 
 
 ### 1. Fundamentos do React Native na Prática
 
-#### Componentes Essenciais:
-* [ ] Implementar **`View`** para criar blocos de layout e containers.
-* [ ] Utilizar **`Text`** para exibir diferentes tipos de conteúdo textual.
-* [ ] Inserir e manipular **`Image`** (locais e de URLs).
-* [ ] Criar campos de entrada com **`TextInput`** e gerenciar seu valor.
-* [ ] Adicionar interatividade com **`Button`**, **`TouchableOpacity`**, **`TouchableHighlight`** e **`Pressable`**.
-* [ ] Gerenciar conteúdo que excede a tela com **`ScrollView`**.
-* [ ] Exibir listas de dados otimizadas usando **`FlatList`** e **`SectionList`**.
+#### *[x] Componentes Essenciais:
+* [x] Implementar **`View`** para criar blocos de layout e containers.
+* [x] Utilizar **`Text`** para exibir diferentes tipos de conteúdo textual.
+* [x] Inserir e manipular **`Image`** (locais e de URLs).
+* [x] Criar campos de entrada com **`TextInput`** e gerenciar seu valor.
+* [x] Adicionar interatividade com **`Button`**, **`TouchableOpacity`**, **`TouchableHighlight`** e **`Pressable`**.
+* [x] Gerenciar conteúdo que excede a tela com **`ScrollView`**.
+* [x] Exibir listas de dados otimizadas usando **`FlatList`** e **`SectionList`**.
 
 #### Estilização e Layout:
 * [ ] Organizar estilos com **`StyleSheet.create`** para modularidade.
